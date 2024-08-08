@@ -1,8 +1,0 @@
-export { Single } from './Single'
-export { Singer } from './Singer'
-export { Album } from './Album'
-export { Video } from './Video'
-export { Playlist } from './Playlist'
-export { Lyric } from './Lyric'
-export { Radio } from './Radio'
-export { User } from './User'
