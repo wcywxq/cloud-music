@@ -1,5 +1,15 @@
-# music space
+# umi project
 
-- v0
-- v1
-- v2
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
